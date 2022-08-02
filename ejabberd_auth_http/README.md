@@ -207,4 +207,4 @@ An Auth token is provided as a password.
 
 ## Troubleshooting
 
-If the service supports multiple passwords per user you need to disable authentication caching with `auth_use_cache: false`. See [https://github.com/processone/ejabberd-contrib/issues/288](https://github.com/processone/ejabberd-contrib/issues/288).
+If the service supports multiple passwords per user you need to disable authentication caching with `auth_use_cache: false`. See [https://github.com/ftntming/ejabberd-contrib2/issues/288](https://github.com/ftntming/ejabberd-contrib2/issues/288).

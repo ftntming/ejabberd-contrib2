@@ -1,5 +1,5 @@
 author: "Tim Stewart <tim at stoo.org>"
 category: "log"
 summary: "Logs messages to an HTTP API"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/ftntming/ejabberd-contrib2/tree/master/"
+url: "git@github.com:ftntming/ejabberd-contrib2.git"

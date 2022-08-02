@@ -1,5 +1,5 @@
 author: "Mickael Remond <mremond at process-one.net>"
 category: "log"
 summary: "Log all s2s connections in a file"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/ftntming/ejabberd-contrib2/tree/master/"
+url: "git@github.com:ftntming/ejabberd-contrib2.git"

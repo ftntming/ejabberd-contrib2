@@ -1,5 +1,5 @@
 author: "Holger Weiss <holger at zedat.fu-berlin.de>"
 category: "data"
 summary: "Filter spam messages based on sender JID and content"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/ftntming/ejabberd-contrib2/tree/master/"
+url: "git@github.com:ftntming/ejabberd-contrib2.git"

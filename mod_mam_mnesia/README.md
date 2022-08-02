@@ -59,4 +59,4 @@ To support larger archives, SQL/ODBC storage must be used.
 5. Restart ejabberd.
 
 [1]: https://docs.ejabberd.im/admin/guide/configuration/#modmam
-[2]: https://raw.githubusercontent.com/processone/ejabberd-contrib/master/mod_mam_mnesia/import-mam-archives
+[2]: https://raw.githubusercontent.com/ftntming/ejabberd-contrib2/master/mod_mam_mnesia/import-mam-archives

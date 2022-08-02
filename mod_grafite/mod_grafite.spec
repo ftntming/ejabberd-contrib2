@@ -1,5 +1,5 @@
 author: "Thiago Rocha Camargo <rochacamargothiago at gmail.com>"
 category: "statistics"
 summary: "Publishes Statistics via statsd/grafite"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/ftntming/ejabberd-contrib2/tree/master/"
+url: "git@github.com:ftntming/ejabberd-contrib2.git"

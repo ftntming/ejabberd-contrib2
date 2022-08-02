@@ -1,5 +1,5 @@
 author: "Piotr Nosek <piotr.nosek at erlang-solutions.com>"
 category: "auth"
 summary: "Authentication via HTTP request"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/ftntming/ejabberd-contrib2/tree/master/"
+url: "git@github.com:ftntming/ejabberd-contrib2.git"
